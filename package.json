@@ -1,0 +1,23 @@
+{
+  "name": "rich-transperth-converter",
+  "version": "1.0.0",
+  "description": "Convert Transperth CSV to add columns for Tax",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richastral/rich-transperth-converter.git"
+  },
+  "author": "Richard Cook",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/richastral/rich-transperth-converter/issues"
+  },
+  "homepage": "https://github.com/richastral/rich-transperth-converter#readme",
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "fast-csv": "^5.0.2"
+  }
+}

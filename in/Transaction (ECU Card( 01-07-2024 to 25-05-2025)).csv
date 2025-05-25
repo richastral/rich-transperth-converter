@@ -1,0 +1,216 @@
+﻿Date,Time,Action,Location,Service,Bus Number,Zone,Amount,Balance,Notes
+2025-04-29,16:53:10,Normal TAG OFF,Warwick,Rail,,2,-4.16,6.64,"   "
+2025-04-29,16:31:26,Normal TAG ON,Elizabeth Quay,Rail,,0,,10.8,Initial Boarding
+2025-04-29,08:12:40,Normal TAG OFF,Elizabeth Quay,Rail,,0,-4.16,10.8,"   "
+2025-04-29,07:43:29,Normal TAG ON,Warwick,Rail,,2,,14.96,Initial Boarding
+2025-04-29,07:42:45,Parking Fee,Warwick,,,,-2,14.96,"   "
+2025-04-27,13:09:48,Normal TAG OFF,BNNDN a Santorini,488F,2965,5,0,16.96,"   "
+2025-04-27,12:59:02,Normal TAG ON,BUTLER STN S6,488F,2965,5,,16.96,Transfer
+2025-04-27,12:51:51,Normal TAG OFF,BUTLER STN S4,481F,3278,5,0,16.96,"   "
+2025-04-27,12:42:20,Normal TAG ON,SNTA BRBR b Wymth,481F,3278,5,,16.96,Initial Boarding
+2025-04-20,13:53:34,Normal TAG OFF,BUTLER STN S4,481F,2933,5,0,16.96,"   "
+2025-04-20,13:45:31,Normal TAG ON,SNTA BRBR a Hmpshre,481F,2933,5,,16.96,Initial Boarding
+2025-04-15,14:38:36,Normal TAG OFF,Warwick,Rail,,2,-4.16,16.96,"   "
+2025-04-15,14:17:07,Normal TAG ON,Elizabeth Quay,Rail,,0,,21.12,Initial Boarding
+2025-04-15,07:54:07,Normal TAG OFF,Perth,Rail,,0,-4.16,21.12,"   "
+2025-04-15,07:32:25,Normal TAG ON,Warwick,Rail,,2,,25.28,Initial Boarding
+2025-04-15,07:32:25,SV Update,,,,,20,25.28,Autoload Topup
+2025-04-15,07:30:45,Parking Fee,Warwick,,,,-2,5.28,"   "
+2025-04-08,15:17:57,Normal TAG OFF,Warwick,Rail,,2,-4.68,7.28,"   "
+2025-04-08,14:56:44,Normal TAG ON,Elizabeth Quay,Rail,,0,,11.96,Initial Boarding
+2025-04-08,08:16:00,Normal TAG OFF,Perth,Rail,,0,-4.68,11.96,"   "
+2025-04-08,07:50:55,Normal TAG ON,Warwick,Rail,,2,,16.64,Initial Boarding
+2025-04-08,07:50:01,Parking Fee,Warwick,,,,-2,16.64,"   "
+2025-04-01,15:43:14,Normal TAG OFF,Butler,Rail,,5,-4.68,18.64,"   "
+2025-04-01,14:55:14,Normal TAG ON,Elizabeth Quay,Rail,,0,,23.32,Initial Boarding
+2025-04-01,09:19:31,Normal TAG OFF,Elizabeth Quay,Rail,,0,-4.68,23.32,"   "
+2025-04-01,08:33:54,Parking Fee,Butler,,,,-2,28,"   "
+2025-04-01,08:33:49,Normal TAG ON,Butler,Rail,,5,,28,Initial Boarding
+2025-03-18,17:09:32,Normal TAG OFF,Joondalup,Rail,,3,-4.68,30,"   "
+2025-03-18,16:59:10,Normal TAG ON,Clarkson,Rail,,4,,34.68,Initial Boarding
+2025-03-18,16:57:51,SV Update,,Agent,,,20,34.68,"   "
+2025-03-11,16:40:47,Normal TAG OFF,Joondalup,Rail,,3,-1.36,14.68,"   "
+2025-03-11,16:02:54,Normal TAG ON,Elizabeth Quay,Rail,,0,,16.04,Transfer
+2025-03-11,15:56:02,Normal TAG OFF,Elizabeth QyJetty,009T,9901,1,-0.88,16.04,"   "
+2025-03-11,15:43:13,Normal TAG ON,MendsJetty,009T,9901,1,,16.92,Transfer
+2025-03-11,14:54:28,Normal TAG OFF,MendsJetty,009F,9902,1,-1.92,16.92,"   "
+2025-03-11,14:44:18,Normal TAG ON,Elizabeth QyJetty,009F,9902,1,,18.84,Initial Boarding
+2025-03-11,12:58:31,Normal TAG OFF,Elizabeth Quay,Rail,,0,0,18.84,"   "
+2025-03-11,12:58:14,Normal TAG ON,Elizabeth Quay,Rail,,0,,18.84,Transfer
+2025-03-11,12:04:26,Normal TAG OFF,Perth,Rail,,0,-4.16,18.84,"   "
+2025-03-11,11:22:20,Normal TAG ON,Butler,Rail,,5,,23,Initial Boarding
+2025-03-11,11:22:20,SV Update,,,,,20,23,Autoload Topup
+2025-03-11,11:22:20,Autoload Activation Applied,,,,,0,3,"DIRECT DEBIT ADDED   "
+2025-03-10,20:46:16,Normal TAG OFF,Butler,Rail,,5,-4.68,3,"   "
+2025-03-10,20:26:22,Normal TAG ON,Joondalup,Rail,,3,,7.68,Initial Boarding
+2025-03-10,17:49:58,Normal TAG OFF,Joondalup,Rail,,3,-4.68,7.68,"   "
+2025-03-10,17:31:04,Normal TAG ON,Butler,Rail,,5,,12.36,Initial Boarding
+2025-03-06,15:27:00,Normal TAG OFF,Warwick,Rail,,2,-4.68,12.36,"   "
+2025-03-06,15:00:38,Normal TAG ON,Elizabeth Quay,Rail,,0,,17.04,Initial Boarding
+2025-03-06,08:21:52,Normal TAG OFF,Elizabeth Quay,Rail,,0,-4.68,17.04,"   "
+2025-03-06,07:55:06,Normal TAG ON,Warwick,Rail,,2,,21.72,Initial Boarding
+2025-03-06,07:54:28,Parking Fee,Warwick,,,,-2,21.72,"   "
+2025-03-04,15:53:50,Normal TAG OFF,Warwick,Rail,,2,-4.68,23.72,"   "
+2025-03-04,15:30:06,Normal TAG ON,Elizabeth Quay,Rail,,0,,28.4,Initial Boarding
+2025-03-04,15:27:44,SV Update,,TIO,,,30,28.4,"   "
+2025-03-04,15:14:05,SV Update,,,,,-30,-1.6,"FAILED TO CHARGE CREDIT CARD   "
+2025-03-04,15:14:05,Autoload Deactivation Applied,,,,,0,28.4,"DIRECT DEBIT REMOVED   "
+2025-03-04,08:35:35,Normal TAG OFF,Elizabeth Quay,Rail,,0,-4.16,28.4,"   "
+2025-03-04,08:12:00,Normal TAG ON,Warwick,Rail,,2,,32.56,Initial Boarding
+2025-03-04,08:12:00,SV Update,,,,,30,32.56,Autoload Topup
+2025-03-04,08:11:16,Parking Fee,Warwick,,,,-2,2.56,"   "
+2025-02-20,16:12:44,Normal TAG OFF,Warwick,Rail,,2,-4.16,4.56,"   "
+2025-02-20,15:51:57,Normal TAG ON,Elizabeth Quay,Rail,,0,,8.72,Initial Boarding
+2025-02-20,10:50:41,SV Update,,,,,0,0,"   "
+2025-02-20,07:34:03,Normal TAG OFF,Elizabeth Quay,Rail,,0,-4.16,8.72,"   "
+2025-02-20,07:14:01,Normal TAG ON,Warwick,Rail,,2,,12.88,Initial Boarding
+2025-02-20,07:12:53,Parking Fee,Warwick,,,,-2,12.88,"   "
+2025-02-18,14:18:14,Normal TAG OFF,Warwick,Rail,,2,-4.16,14.88,"   "
+2025-02-18,13:52:44,Normal TAG ON,Elizabeth Quay,Rail,,0,,19.04,Initial Boarding
+2025-02-18,08:16:08,Normal TAG OFF,Elizabeth Quay,Rail,,0,-4.16,19.04,"   "
+2025-02-18,07:53:51,Normal TAG ON,Warwick,Rail,,2,,23.2,Initial Boarding
+2025-02-18,07:53:07,Parking Fee,Warwick,,,,-2,23.2,"   "
+2025-02-16,17:03:42,Normal TAG OFF,Butler,Rail,,5,0,25.2,"   "
+2025-02-16,16:03:37,Normal TAG ON,Elizabeth Quay,Rail,,0,,25.2,Initial Boarding
+2025-02-16,13:24:07,Normal TAG OFF,Elizabeth Quay,Rail,,0,0,25.2,"   "
+2025-02-16,12:26:22,Normal TAG ON,Butler,Rail,,5,,25.2,Initial Boarding
+2025-02-11,15:18:05,Normal TAG OFF,Warwick,Rail,,2,-4.16,25.2,"   "
+2025-02-11,14:53:42,Normal TAG ON,Elizabeth Quay,Rail,,0,,29.36,Initial Boarding
+2025-02-11,07:42:27,Normal TAG OFF,Elizabeth Quay,Rail,,0,-4.16,29.36,"   "
+2025-02-11,07:19:51,Normal TAG ON,Warwick,Rail,,2,,33.52,Initial Boarding
+2025-02-11,07:19:51,SV Update,,,,,30,33.52,Autoload Topup
+2025-02-11,07:18:38,Parking Fee,Warwick,,,,-2,3.52,"   "
+2025-02-06,16:02:22,Normal TAG OFF,Warwick,Rail,,2,-4.16,5.52,"   "
+2025-02-06,15:43:19,Normal TAG ON,Elizabeth Quay,Rail,,0,,9.68,Initial Boarding
+2025-02-06,07:35:43,Normal TAG OFF,Elizabeth Quay,Rail,,0,-4.16,9.68,"   "
+2025-02-06,07:12:32,Normal TAG ON,Warwick,Rail,,2,,13.84,Initial Boarding
+2025-02-06,07:11:32,Parking Fee,Warwick,,,,-2,13.84,"   "
+2025-02-04,15:27:41,Normal TAG OFF,Warwick,Rail,,2,0,15.84,"   "
+2025-02-04,15:05:12,Normal TAG ON,Elizabeth Quay,Rail,,0,,15.84,Initial Boarding
+2025-02-04,08:12:29,Normal TAG OFF,Perth,Rail,,0,0,15.84,"   "
+2025-02-04,07:34:03,Normal TAG ON,Warwick,Rail,,2,,15.84,Initial Boarding
+2025-02-04,07:32:48,Parking Fee,Warwick,,,,0,15.84,"   "
+2024-12-11,14:09:18,Normal TAG OFF,Warwick,Rail,,2,-4.16,15.84,"   "
+2024-12-11,13:40:50,Normal TAG ON,Elizabeth Quay,Rail,,0,,20,Initial Boarding
+2024-12-11,08:00:38,Normal TAG OFF,Elizabeth Quay,Rail,,0,-4.16,20,"   "
+2024-12-11,07:38:15,Normal TAG ON,Warwick,Rail,,2,,24.16,Initial Boarding
+2024-12-11,07:38:15,SV Update,,,,,30,24.16,Autoload Topup
+2024-12-11,07:38:15,Autoload Activation Applied,,,,,0,-5.84,"DIRECT DEBIT ADDED   "
+2024-12-11,07:38:15,SV Update,,,,,-30,-5.84,"FAILED TO CHARGE CREDIT CARD   "
+2024-12-11,07:38:15,Autoload Deactivation Applied,,,,,0,24.16,"DIRECT DEBIT REMOVED   "
+2024-12-11,07:37:42,Parking Fee,Warwick,,,,-2,24.16,"   "
+2024-12-04,11:52:04,Normal TAG OFF,Warwick,Rail,,2,-4.16,26.16,"   "
+2024-12-04,11:20:03,Normal TAG ON,Elizabeth Quay,Rail,,0,,30.32,Initial Boarding
+2024-12-04,07:19:13,Normal TAG OFF,Elizabeth Quay,Rail,,0,-4.16,30.32,"   "
+2024-12-04,06:58:01,Normal TAG ON,Warwick,Rail,,2,,34.48,Initial Boarding
+2024-12-04,06:58:01,SV Update,,,,,30,34.48,Autoload Topup
+2024-12-04,06:58:01,Synthetic TAG OFF,Warwick,Rail,,2,-5.2,4.48,Default Fare
+2024-12-04,06:57:08,Parking Fee,Warwick,,,,-2,9.68,"   "
+2024-11-28,17:33:24,Normal TAG ON,Butler,Rail,,5,,11.68,Initial Boarding
+2024-11-28,08:16:24,Normal TAG OFF,Perth,Rail,,0,-4.16,11.68,"   "
+2024-11-28,07:29:23,Normal TAG ON,Butler,Rail,,5,,15.84,Initial Boarding
+2024-11-19,12:59:13,Normal TAG OFF,Warwick,Rail,,2,-4.16,15.84,"   "
+2024-11-19,12:37:08,Normal TAG ON,Elizabeth Quay,Rail,,0,,20,Initial Boarding
+2024-11-19,08:24:36,Normal TAG OFF,Elizabeth Quay,Rail,,0,-4.16,20,"   "
+2024-11-19,07:56:03,Normal TAG ON,Warwick,Rail,,2,,24.16,Initial Boarding
+2024-11-19,07:55:23,Parking Fee,Warwick,,,,-2,24.16,"   "
+2024-11-15,11:33:42,Normal TAG OFF,Warwick,Rail,,2,-4.16,26.16,"   "
+2024-11-15,11:04:18,Normal TAG ON,Butler,Rail,,5,,30.32,Initial Boarding
+2024-11-11,16:16:54,Normal TAG OFF,Warwick,Rail,,2,-4.16,30.32,"   "
+2024-11-11,15:55:02,Normal TAG ON,Elizabeth Quay,Rail,,0,,34.48,Initial Boarding
+2024-11-11,15:55:02,SV Update,,,,,30,34.48,Autoload Topup
+2024-11-11,08:11:01,Normal TAG OFF,Elizabeth Quay,Rail,,0,-4.16,4.48,"   "
+2024-11-11,07:48:42,Normal TAG ON,Warwick,Rail,,2,,8.64,Initial Boarding
+2024-11-11,07:47:45,Parking Fee,Warwick,,,,-2,8.64,"   "
+2024-10-22,13:36:25,Normal TAG OFF,Warwick,Rail,,2,-4.16,10.64,"   "
+2024-10-22,13:04:15,Normal TAG ON,Elizabeth Quay,Rail,,0,,14.8,Initial Boarding
+2024-10-22,07:44:40,Normal TAG OFF,Elizabeth Quay,Rail,,0,-4.16,14.8,"   "
+2024-10-22,07:21:37,Normal TAG ON,Warwick,Rail,,2,,18.96,Initial Boarding
+2024-10-22,07:20:47,Parking Fee,Warwick,,,,-2,18.96,"   "
+2024-10-17,08:58:21,Normal TAG OFF,Warwick,Rail,,2,0,20.96,"   "
+2024-10-17,08:37:31,Normal TAG ON,Elizabeth Quay,Rail,,0,,20.96,Transfer
+2024-10-17,07:50:34,Normal TAG OFF,Elizabeth Quay,Rail,,0,-4.16,20.96,"   "
+2024-10-17,07:29:12,Normal TAG ON,Warwick,Rail,,2,,25.12,Initial Boarding
+2024-10-17,07:28:24,Parking Fee,Warwick,,,,-2,25.12,"   "
+2024-10-16,16:29:20,Normal TAG OFF,Joondalup,Rail,,3,-4.16,27.12,"   "
+2024-10-16,16:12:13,Normal TAG ON,Butler,Rail,,5,,31.28,Initial Boarding
+2024-10-03,15:37:59,Normal TAG OFF,Warwick,Rail,,2,-4.16,31.28,"   "
+2024-10-03,15:19:17,Normal TAG ON,Elizabeth Quay,Rail,,0,,35.44,Initial Boarding
+2024-10-03,15:19:17,SV Update,,,,,30,35.44,Autoload Topup
+2024-10-03,07:59:06,Normal TAG OFF,Elizabeth Quay,Rail,,0,-4.16,5.44,"   "
+2024-10-03,07:35:08,Normal TAG ON,Warwick,Rail,,2,,9.6,Initial Boarding
+2024-10-03,07:34:11,Parking Fee,Warwick,,,,-2,9.6,"   "
+2024-09-30,16:52:53,Normal TAG OFF,Warwick,Rail,,2,-4.16,11.6,"   "
+2024-09-30,16:32:23,Normal TAG ON,Elizabeth Quay,Rail,,0,,15.76,Initial Boarding
+2024-09-30,08:25:06,Normal TAG OFF,Elizabeth Quay,Rail,,0,-4.16,15.76,"   "
+2024-09-30,07:57:05,Normal TAG ON,Warwick,Rail,,2,,19.92,Initial Boarding
+2024-09-30,07:56:02,Parking Fee,Warwick,,,,-2,19.92,"   "
+2024-09-16,19:14:17,Normal TAG OFF,Butler,Rail,,5,-4.16,21.92,"   "
+2024-09-16,18:51:46,Normal TAG ON,Joondalup,Rail,,3,,26.08,Initial Boarding
+2024-09-10,18:49:20,Normal TAG OFF,Joondalup,Rail,,3,-4.16,26.08,"   "
+2024-09-10,18:14:09,Normal TAG ON,Elizabeth Quay,Rail,,0,,30.24,Initial Boarding
+2024-09-10,07:54:53,Normal TAG OFF,Elizabeth Quay,Rail,,0,-4.16,30.24,"   "
+2024-09-10,07:06:18,Normal TAG ON,Butler,Rail,,5,,34.4,Initial Boarding
+2024-09-10,07:06:18,SV Update,,,,,30,34.4,Autoload Topup
+2024-09-02,16:58:30,Normal TAG OFF,Joondalup,Rail,,3,-4.16,4.4,"   "
+2024-09-02,16:39:31,Normal TAG ON,Butler,Rail,,5,,8.56,Initial Boarding
+2024-08-27,16:38:52,Normal TAG OFF,Warwick,Rail,,2,-4.16,8.56,"   "
+2024-08-27,16:15:28,Normal TAG ON,Elizabeth Quay,Rail,,0,,12.72,Initial Boarding
+2024-08-27,07:55:04,Normal TAG OFF,Elizabeth Quay,Rail,,0,-4.16,12.72,"   "
+2024-08-27,07:28:39,Normal TAG ON,Warwick,Rail,,2,,16.88,Initial Boarding
+2024-08-27,07:28:19,Parking Fee,Warwick,,,,-2,16.88,"   "
+2024-08-23,12:36:24,Normal TAG OFF,Warwick,Rail,,2,-4.16,18.88,"   "
+2024-08-23,12:16:17,Normal TAG ON,Elizabeth Quay,Rail,,0,,23.04,Initial Boarding
+2024-08-23,08:04:53,Normal TAG OFF,Elizabeth Quay,Rail,,0,-4.16,23.04,"   "
+2024-08-23,07:41:55,Normal TAG ON,Warwick,Rail,,2,,27.2,Initial Boarding
+2024-08-23,07:40:49,Parking Fee,Warwick,,,,-2,27.2,"   "
+2024-08-20,16:35:34,Normal TAG OFF,Warwick,Rail,,2,-4.16,29.2,"   "
+2024-08-20,16:00:16,Normal TAG ON,Elizabeth Quay,Rail,,0,,33.36,Initial Boarding
+2024-08-20,16:00:16,SV Update,,,,,30,33.36,Autoload Topup
+2024-08-20,08:26:29,Normal TAG OFF,Elizabeth Quay,Rail,,0,-4.16,3.36,"   "
+2024-08-20,08:01:44,Normal TAG ON,Warwick,Rail,,2,,7.52,Initial Boarding
+2024-08-20,08:00:39,Parking Fee,Warwick,,,,-2,7.52,"   "
+2024-08-12,16:24:04,Normal TAG OFF,Warwick,Rail,,2,-4.16,9.52,"   "
+2024-08-12,15:58:56,Normal TAG ON,Elizabeth Quay,Rail,,0,,13.68,Initial Boarding
+2024-08-12,08:30:33,Normal TAG OFF,Elizabeth Quay,Rail,,0,-4.16,13.68,"   "
+2024-08-12,08:06:52,Normal TAG ON,Warwick,Rail,,2,,17.84,Initial Boarding
+2024-08-12,08:06:52,Autoload Activation Applied,,,,,0,17.84,"DIRECT DEBIT ADDED   "
+2024-08-12,08:05:40,Parking Fee,Warwick,,,,-2,17.84,"   "
+2024-08-07,16:11:56,SV Update,,Agent,,,20,19.84,"   "
+2024-08-06,16:23:39,Normal TAG OFF,Warwick,Rail,,2,-4.68,-0.16,"   "
+2024-08-06,15:57:36,Normal TAG ON,Elizabeth Quay,Rail,,0,,4.52,Initial Boarding
+2024-08-06,07:54:24,Normal TAG OFF,Elizabeth Quay,Rail,,0,-4.68,4.52,"   "
+2024-08-06,07:32:49,Normal TAG ON,Warwick,Rail,,2,,9.2,Initial Boarding
+2024-08-06,07:31:35,Parking Fee,Warwick,,,,-2,9.2,"   "
+2024-07-23,16:03:36,Normal TAG OFF,Warwick,Rail,,2,-4.68,11.2,"   "
+2024-07-23,15:43:53,Normal TAG ON,Elizabeth Quay,Rail,,0,,15.88,Initial Boarding
+2024-07-23,08:14:32,Normal TAG OFF,Elizabeth Quay,Rail,,0,-4.68,15.88,"   "
+2024-07-23,07:50:19,Normal TAG ON,Warwick,Rail,,2,,20.56,Initial Boarding
+2024-07-23,07:49:55,Parking Fee,Warwick,,,,-2,20.56,"   "
+2024-07-22,16:03:32,Normal TAG OFF,Warwick,Rail,,2,-4.68,22.56,"   "
+2024-07-22,15:42:28,Normal TAG ON,Elizabeth Quay,Rail,,0,,27.24,Initial Boarding
+2024-07-22,08:31:33,Normal TAG OFF,Elizabeth Quay,Rail,,0,-4.68,27.24,"   "
+2024-07-22,08:06:32,SV Update,,Agent,,,20,31.92,"   "
+2024-07-22,08:06:12,Normal TAG ON,Warwick,Rail,,2,,11.92,Initial Boarding
+2024-07-22,08:05:43,Parking Fee,Warwick,,,,-2,11.92,"   "
+2024-07-20,16:36:56,Normal TAG OFF,Joondalup,Rail,,3,-4.68,13.92,"   "
+2024-07-20,16:19:11,Normal TAG ON,Butler,Rail,,5,,18.6,Initial Boarding
+2024-07-18,12:49:11,Normal TAG OFF,Alkimos,Rail,,5,-4.68,18.6,"   "
+2024-07-18,11:54:41,Normal TAG ON,Elizabeth Quay,Rail,,0,,23.28,Initial Boarding
+2024-07-18,07:53:15,Normal TAG OFF,Elizabeth Quay,Rail,,0,-4.68,23.28,"   "
+2024-07-18,06:59:24,Normal TAG ON,Alkimos,Rail,,5,,27.96,Initial Boarding
+2024-07-16,16:45:09,Normal TAG OFF,Warwick,Rail,,2,-4.68,27.96,"   "
+2024-07-16,16:21:13,Normal TAG ON,Elizabeth Quay,Rail,,0,,32.64,Initial Boarding
+2024-07-16,08:14:42,Normal TAG OFF,Elizabeth Quay,Rail,,0,-4.68,32.64,"   "
+2024-07-16,07:51:56,Normal TAG ON,Warwick,Rail,,2,,37.32,Initial Boarding
+2024-07-16,07:51:06,Parking Fee,Warwick,,,,-2,37.32,"   "
+2024-07-12,12:23:24,Normal TAG OFF,Warwick,Rail,,2,-4.68,39.32,"   "
+2024-07-12,11:58:15,Normal TAG ON,Elizabeth Quay,Rail,,0,,44,Initial Boarding
+2024-07-12,07:44:13,Normal TAG OFF,Elizabeth Quay,Rail,,0,-4.68,44,"   "
+2024-07-12,07:23:03,Normal TAG ON,Warwick,Rail,,2,,48.68,Initial Boarding
+2024-07-12,07:22:30,Parking Fee,Warwick,,,,-2,48.68,"   "
+2024-07-09,16:43:40,Normal TAG OFF,Warwick,Rail,,2,-4.68,50.68,"   "
+2024-07-09,16:22:50,Normal TAG ON,Elizabeth Quay,Rail,,0,,55.36,Initial Boarding
+2024-07-09,08:05:48,Normal TAG OFF,Elizabeth Quay,Rail,,0,-4.68,55.36,"   "
+2024-07-09,07:41:39,Normal TAG ON,Warwick,Rail,,2,,60.04,Initial Boarding
+2024-07-09,07:40:59,Parking Fee,Warwick,,,,-2,60.04,"   "
